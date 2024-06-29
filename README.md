@@ -24,12 +24,19 @@ print on the screen the sum of those 2 numbers
 // Exercise 3: 
 Write pseudo code that will perform the following.    
 
-a) Read in 5 separate numbers.   
+a) Read in 5 separate numbers. 
+3
+5
+1
+7
+6  
 b) Calculate the average of the five numbers.
+3+5+1+7+6=22
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
-d) Write out the results found from steps b and c with a message describing what they are
+2 and 11
+d) Write out the results found from steps b and c with a message describing  what they are
 
-(Your pseudocode here)
+(Five numbers 3, 5, 1, 7, 6. Add the five numbers together 3+5+1+7+6=22. Find the mini and the max of the numbers 11 largest and 2 smallest)
 
 -- END --
 

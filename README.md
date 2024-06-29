@@ -4,6 +4,8 @@ Week five assignment! This week we are to write a code in pseudocode with with n
 
 a + b = c
 
+8 + 5 = 13
+
 num1 + num2 = sum
 print sum
 
@@ -11,10 +13,13 @@ ask for 2 numbers
 add the 2 number together 
 print on the screen the sum of those 2 numbers
 
+5
+4
+5 + 4 = 9
 
 // Exercise 2: Check if a Number is Even or Odd
 
-(Your pseudocode here)
+(9 and  13 are odd although when added together it makes an even 22)
 
 // Exercise 3: 
 Write pseudo code that will perform the following.    
